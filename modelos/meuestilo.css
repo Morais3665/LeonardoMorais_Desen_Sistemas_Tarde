@@ -1,0 +1,21 @@
+p{
+    color: green;
+    font-style: italic;
+}
+
+h3, h4{
+    font-family: arial;
+}
+
+li{
+    font-size: 12px;
+}
+
+h3{
+    color: blue;
+}
+
+h4{
+    color: yellow;
+}
+
