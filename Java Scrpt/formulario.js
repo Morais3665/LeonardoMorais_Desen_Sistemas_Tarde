@@ -58,4 +58,5 @@ function data(variavel){
     variavel=variavel.replace(/(\d{2})(\d)/, "$1/$2")
 
     
+    
 }
